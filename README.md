@@ -1,6 +1,6 @@
 ## MITTFlix 2.0
 
-React project to search movies in a database, where the user can add one or more films in a list with his/her favorities movies.
+React project to search movies in a database, where the user can add one or more films in a list with his/her favorites movies.
 
 #### To start this app
 
